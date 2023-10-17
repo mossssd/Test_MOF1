@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="Test_MOF", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Test",
     author_email="author@example.com",
     description="a package that contain my lovely plant",
